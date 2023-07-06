@@ -2,6 +2,10 @@
   I'm Sebastian Rodriguez.</h1>
 <h3> A passionate frontend developer from Colombia 🇨🇴 </h3>
 
+<p>
+<img src="src/picture.jpg" alt="Xseb4s" width="250" height="425" align="right"  />
+</p>
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Frontend Developer, **HTML, CSS, JavaScript, Python, PHP, React JS**
