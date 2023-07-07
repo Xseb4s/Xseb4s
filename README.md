@@ -1,6 +1,6 @@
 <h1>Hey <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
   I'm Sebastian Rodriguez.</h1>
-<h3> A passionate frontend developer from Colombia 🇨🇴 </h3>
+<h3> An exceptionally and dedicated frontend developer hailing from the vibrant country of Colombia. 🇨🇴 </h3>
 
 <p>
 <img src="src/Cat-Chat.gif" alt="Xseb4s" width="425" height="250" align="right"  />
