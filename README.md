@@ -3,7 +3,7 @@
 <h3> A passionate frontend developer from Colombia 🇨🇴 </h3>
 
 <p>
-<img src="src/picture.jpg" alt="Xseb4s" width="250" height="425" align="right"  />
+<img src="src/Cat-Chat.gif" alt="Xseb4s" width="425" height="250" align="right"  />
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
