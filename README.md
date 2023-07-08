@@ -3,7 +3,7 @@
 <h3> An exceptionally and dedicated frontend developer hailing from the vibrant country of Colombia. 🇨🇴 </h3>
 
 <p>
-<img src="src/Cat-Chat.gif" alt="Xseb4s" width="450" height="225" align="right"  />
+<img src="src/Cat-Chat.gif" alt="Xseb4s" width="450" height="200" align="right"  />
 </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
