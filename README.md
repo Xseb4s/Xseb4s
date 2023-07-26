@@ -11,7 +11,7 @@
 - :computer: I'm a Frontend Developer, **HTML, CSS, JavaScript, Python, PHP, React JS**
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :mailbox: How to reach me **sebas25qr@gmail.com**
+- :mailbox: How to reach me **srodriguez44482@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
