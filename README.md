@@ -19,7 +19,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Xseb4s" height="30" width="40" />
   </a>
   <a href="https://xseb4s.github.io/Portfolio/" target="_blank">
-    <img src="https://i.pinimg.com/originals/d5/b0/6a/d5b06aa1af60f982e04023bf5c21f4b1.png" alt="Sebas's Portfolio" height="30" width="40"/>
+    <img src="https://i.pinimg.com/originals/d5/b0/6a/d5b06aa1af60f982e04023bf5c21f4b1.png" alt="Sebas's Portfolio" height="40" width="40"/>
   </a>
 </p>
 
